@@ -30,8 +30,6 @@ Implementation using C or pyhton code
 
 
 ## PROGRAM:
-PROGRAM:
-CaearCipher.
 
 ```
 
@@ -81,14 +79,9 @@ int main() {
 
 ```
 ## OUTPUT:
-OUTPUT:
 Simulating Caesar Cipher
 
 <img width="362" height="247" alt="Screenshot (442)" src="https://github.com/user-attachments/assets/8b3d2a67-64a5-4f9e-a751-c2d6dad6c61b" />
-
-
-Input : Anna University
-Encrypted Message : Dqqd Xqlyhuvlwb Decrypted Message : Anna University
 
 ## RESULT:
 The program is executed successfully
@@ -252,12 +245,9 @@ int main() {
 ```
 
 ## OUTPUT:
-Output:
-Key text: Monarchy Plain text: instruments Cipher text: gatlmzclrqxa
+Simulating  PlayFair Cipher
 
 <img width="371" height="312" alt="Screenshot (443)" src="https://github.com/user-attachments/assets/ae9de1c9-52f0-4b6d-b5e7-676087d3b175" />
-
-
 
 ## RESULT:
 The program is executed successfully
@@ -573,6 +563,8 @@ int main() {
 
 ```
 ## OUTPUT:
+
+Simulating Rail Fence Cipher
 
 <img width="361" height="196" alt="Screenshot (446)" src="https://github.com/user-attachments/assets/222f5757-2ad0-4092-8d98-a89f8ea4eb20" />
 
