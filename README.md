@@ -566,13 +566,17 @@ int main() {
 
 Simulating Rail Fence Cipher
 
+
+
+
 <img width="361" height="196" alt="Screenshot (446)" src="https://github.com/user-attachments/assets/5dfbd072-9a09-43c3-95ec-af3adf88e69e" />
 
 
 
-## RESULT:
-The program is executed successfully
 
 
 ## RESULT:
 The program is executed successfully
+
+
+
