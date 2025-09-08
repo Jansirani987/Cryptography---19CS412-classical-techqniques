@@ -566,7 +566,7 @@ int main() {
 
 Simulating Rail Fence Cipher
 
-<img width="361" height="196" alt="Screenshot (446)" src="https://github.com/user-attachments/assets/222f5757-2ad0-4092-8d98-a89f8ea4eb20" />
+<img width="361" height="196" alt="Screenshot (446)" src="https://github.com/user-attachments/assets/7a76cf91-b365-4786-83b2-700f88a99b6e" />
 
 
 ## RESULT:
